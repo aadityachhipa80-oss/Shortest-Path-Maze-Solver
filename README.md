@@ -126,5 +126,3 @@ pathfinding/
 ## Created By
 Aaditya
 
-## Links
- <a href="https://libe.dev">libe.dev</a></p>
