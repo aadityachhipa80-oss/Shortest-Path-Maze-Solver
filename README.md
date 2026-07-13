@@ -9,14 +9,6 @@ I built it from scratch with plain JavaScript so the focus stays on the algorith
 </p>
 
 <p align="center">
-  <a href="https://libe.dev/pathfinding"><b>▶ Live Demo</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://libe.dev/blog/building-a-pathfinding-visualizer-my-path-to-graph-algorithms">Blog post</a>
-  &nbsp;·&nbsp;
-  <a href="./FEATURES.md">Technical deep dive</a>
-</p>
-
-<p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6%2B-f7df1e?logo=javascript&logoColor=black">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-CDN-38bdf8?logo=tailwindcss&logoColor=white">
   <img alt="Dependencies" src="https://img.shields.io/badge/dependencies-none-brightgreen">
@@ -131,12 +123,8 @@ pathfinding/
 └── FEATURES.md  # In-depth technical documentation
 ```
 
+## Created By
+Aaditya
+
 ## Links
-
-- **Live demo:** [libe.dev/pathfinding](https://libe.dev/pathfinding)
-- **Blog post:** [Building a Pathfinding Visualizer: my path to graph algorithms](https://libe.dev/blog/building-a-pathfinding-visualizer-my-path-to-graph-algorithms)
-- **Portfolio:** [libe.dev](https://libe.dev)
-
----
-
-<p align="center">Built by <a href="https://libe.dev">libe.dev</a></p>
+ <a href="https://libe.dev">libe.dev</a></p>
